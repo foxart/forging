@@ -4,6 +4,10 @@ function renderIndex() {
     return 'hello world';
 }
 
-function renderExit() {
+function signIn() {
+    return 'hello world';
+}
+
+function signOut() {
     return 'hello world';
 }
